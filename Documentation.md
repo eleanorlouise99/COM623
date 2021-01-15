@@ -42,10 +42,11 @@ and was the most time consuming out of all the areas which is why I worked on it
 issue I encountered here was that ideally, it would only allow you to sign up using a solent email address, however I was not able to develop that. Secondly, I went on to develop the rest of the application, which was broken down into 3 sections after the login, these being the home page, society page and individual event page. I used components to create the individual society cards on the homepage, and used the same components for the event cards on the society page. I also developed a navbar component with a burger
 menu function for mobile and smaller screens, this was used with a header image as a hero component among all pages.</p>
 
-<h3>Conclusion and results</h3>
-After I had built my app, I asked 2 of my housemates who are students at Solent (and part of sports teams) to test it out and give their feedback, I asked them to follow the user journey that I had planned out. Firstly, they agreed with me that it would have been better to have only allowed solent email addressed to sign up. They were able to 
-understand and find the american football society card and make it to the next step, they liked the homepage, they felt it was very clearly laid out and said they would understand what to do when arriving to that page, without being prompted. The society page
+<h3>Testing & results</h3>
+<p>After I had built my app, I asked 2 of my housemates who are students at Solent (and part of sports teams) to test it out and give their feedback, I asked them to follow the user journey that I had planned out. Firstly, they agreed with me that it would have been better to have only allowed solent email addressed to sign up. They were able to 
+understand and find the american football society card and make it to the next step, they liked the homepage, they felt it was very clearly laid out and said they would understand what to do when arriving to that page, without being prompted. When approaching the society page they were confused about the Joinn button and not beign able to clikc it, however were able to move onto the next step (clicking on the event card) without any struggle. Some other feedback they had was to have more information on the individual society page about that club, for example what they do, what kinds of events they host or how often they train. They also would have liked to have been ablke to see who else is going to an event, which was in my design however I struggled to build this part.</p>
 
-I did find it difficult to 
-get my head round the development phase as I find React to be a challenge for myself. However I was able to develop the user journey that I had set out to do.
+<h3>Conclusion</h3>
+<p>Overall, I am relatively pleased with my SPA, I found it a challenge to build however I was able to create the user journey I had set out to do. However, it would have bene nice to have added in more functionality with areas, such as the join or sign up (on event page) buttons. I feel that my application did solve the problem I had set out to solve, as it did give students a space in which they could view events going on and see which societies there are, although it would have been good to have been able to click on each societies page and view more details.</p>
+
 
