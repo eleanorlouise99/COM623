@@ -17,7 +17,7 @@ methodology, it involves 5 steps, those being: empathasise, define, ideate, prot
 therefore defining the problem, coming up with ideas for solving said problem, prototyping and bringing the ideas to life, and then testing these ideas out. In the last 
 assesment, I mainly focused on the first 3 steps and the development aspect focuses on created a full protoype and testing it out.</p>
 
-<p>For this assesment, as it is a development build, I will be using the <a href="https://zenkit.com/en/blog/agile-methodology-an-overview/#:~:text=Agile%20methodology%20is%20a%20type,functional%20teams%20and%20their%20customers" target="_blank">Agile methodology</a>, however also focusing on the protoype and testing area of the design thinking method 
+<p>For this assesment, as it is a development build, I will be using the <a href="https://zenkit.com/en/blog/agile-methodology-an-overview/#:~:text=Agile%20methodology%20is%20a%20type,functional%20teams%20and%20their%20customers">Agile methodology</a>, however also focusing on the protoype and testing area of the design thinking method 
 to carry on from assesment 1. The Agile methodogoly involves 6 steps, these being:
 <ol>
 <li> A project vision statement, summarising what the goals of the project are.</li>
