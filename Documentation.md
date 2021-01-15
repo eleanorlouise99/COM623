@@ -30,17 +30,13 @@ to carry on from assesment 1. The Agile methodogoly involves 6 steps, these bein
 </ol>
 I decided on using Agile as after performing some research on it, I figured it was the best for the task as it allows you to go back and adapt to changes if necessary, compared 
 to the waterfall method in which each phase is a result of the process of previous steps. It also focuses on the user, it aims to deliver a value rather than just a tech 
-component, meaning it allows you to test software after each sprint, so you can gain feedback earlier in the project and adjust changesaccordingly.</p>
+component, meaning it allows you to test software after each sprint, so you can gain feedback earlier in the project and adjust changes accordingly. The agile method also helps you to set out and plan your development by creating goals and a project backlog, enabling you to ensure your end product has stayed focused on your user story and meets the users needs.</p>
 
 <h3>User story</h3>
 <p>The user story that my journey is based off is about a student called Eddie Jones. Eddie is a first year student interested in joining the American football team at solent. Firstly he needs to make an account, which he does using his university email address (this is a fictional emnail address for the purpose of this assigbment): eddiej@solentuni2021.com and his password 1234abc. He then clicks on the american football page on the hompage, and views the society page. He would like to go to their online social so views more details about that to get more information.</p>
 
 <h3>Building the app</h3>
-<p>Before setting off on the build, to follow through with the agile method, I began by writing down my goals for this project, which was to develop the user journey I had 
-created in assesment one, and a login system for app as well (which I had not designed in assesment 1). I then came up with a project roadmap, which was based off of the design 
-I created in assesment 1, I rouhgly sketched out my user flow from signing up to the individiual event page, so that I had a journey to develop. Finally, before building itself 
-I created a prject backlog, which consisted of a list of all the pages I needed to build, as well as the components, to help me stay on top of everything and make sure dealines 
-are met on time.</p>
+<p>Before setting off on the build, to follow through with the agile method, I began by writing down my goals for this project, which was to use Eddie's story for my user journey and develop this route. I was also going to build a login system for app as well (which I had not designed in assesment 1). I then came up with a project roadmap, which was based off of the design I created in assesment 1, I rouhgly sketched out my user flow from signing up to the individiual event page, so that I had a clear journey and process to develop. Finally, before building itself I created a project backlog, which consisted of a list of all the pages I needed to build, as well as the components, to help me stay on top of everything and make sure dealines are met on time.</p>
 
 <p>I started off by create a new react app which I named 'Solent-sport-app'. I then began by working on the login system, which I did with firebase. This was a struggle for me
 and was the most time consuming out of all the areas which is why I worked on it first, however in the end I was able to develop a successful login and sign up system. The only 
