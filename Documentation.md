@@ -33,7 +33,7 @@ to the waterfall method in which each phase is a result of the process of previo
 component, meaning it allows you to test software after each sprint, so you can gain feedback earlier in the project and adjust changesaccordingly.</p>
 
 <h3>User story</h3>
-The user story that my journey is based off is about a student called Eddie Jones. Eddie 
+<p>The user story that my journey is based off is about a student called Eddie Jones. Eddie is a first year student interested in joining the American football team at solent. Firstly he needs to make an account, which he does using his university email address (this is a fictional emnail address for the purpose of this assigbment): eddiej@solentuni2021.com and his password 1234abc. He then clicks on the american football page on the hompage, and views the society page. He would like to go to their online social so views more details about that to get more information.</p>
 
 <h3>Building the app</h3>
 <p>Before setting off on the build, to follow through with the agile method, I began by writing down my goals for this project, which was to develop the user journey I had 
