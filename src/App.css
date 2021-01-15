@@ -1,0 +1,333 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+button {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #FE0000;
+  cursor: pointer;
+}
+.login {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 20px;
+  background: #e9e9e9;
+  display: flex;
+}
+.login .loginContainer {
+  padding: 60px;
+  margin: auto;
+  width: 100%;
+  max-width: 520px;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 0px 3px 9px 0px #C2C2C2;
+}
+.login .loginContainer label {
+  color: black;
+  margin: 14px 0;
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+}
+.login .loginContainer input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 19px;
+  padding: 10px;
+  background:  #e2e2e2;
+  color: black;
+  letter-spacing: 1px;
+}
+.login .loginContainer .btnContainer {
+  width: 100%;
+  padding: 24px 0;
+}
+.login .loginContainer .btnContainer p {
+  margin: 14px 0 0 0;
+  text-align: right;
+  color: #fff;
+}
+.login .loginContainer .btnContainer p span {
+  color:#FE0000;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+.login .loginContainer .btnContainer p span:hover {
+  color: red;
+}
+.login .loginContainer .errorMsg {
+  color: red;
+  font-size: 16px;
+}
+body{
+  background-color: #F5F5F5;
+}
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  min-height: 10vh;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0px 3px 9px 0px #C2C2C2;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+nav .logo{
+  font-size: 20px;
+}
+nav .nav-links{
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+}
+nav .nav-links a{
+  font-size: 16px;
+  color: black;
+}
+nav .nav-links a:hover{
+  color: #FE0000;
+  cursor: pointer;
+}
+nav .nav-links a:active{
+  color: #FE0000;
+}
+nav .burger{
+  display: none;
+  font-size: 28px;
+  cursor: pointer;
+}
+.headerImage{
+  width: 99vw;
+  height: 300px;
+  background-image: url("images/home-image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+footer{
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  padding: 1%;
+  position: fixed;
+  bottom: 0;
+}
+.logout{
+  cursor: pointer;
+  color: #FE0000;
+}
+.mainHeading{
+  font-size: 27px;
+  font-weight: 400;
+  margin-top: 3%;
+  margin-left: 15%;
+  margin-bottom: 1%;
+}
+.left{
+  float: left;
+  width: 49%;
+  padding-left: 15%;
+  padding-bottom: 10%;
+}
+.right{
+  float: right;
+  width: 49%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+}
+.card{
+  background-color: white;
+  padding: 2%;
+  margin-bottom: 1%;
+  width: 100%;
+  box-shadow: 0px 3px 9px 0px #C2C2C2;
+}
+.title{
+  font-size: 16px;
+  font-weight: 400;
+}
+.members, .events{
+  font-size: 14px;
+  color: #4B4B4B;
+}
+.more{
+  font-size: 14px;
+  color: #FE0000;
+  margin-top: 5%;
+  cursor: pointer;
+}
+.footballImage{
+  background-image: url(images/american-football.jpg);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.societyBtn{
+  width: 5%;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 15%;
+}
+.secondHeading{
+  margin-left: 15%;
+  margin-top: 3%;
+  font-weight: 400;
+  font-size: 23px;
+}
+.subHeading{
+  margin-left: 15%;
+  margin-top: 0.5%;
+  margin-bottom: 1%;
+  font-weight: 400;
+  font-size: 18px;
+  color: #4B4B4B;
+}
+.inTextHeading{
+  margin-top: 5%;
+  margin-bottom: 3%;
+  font-weight: 400;
+  font-size: 18px;
+  color: #4B4B4B;
+}
+.redHeading{
+  margin-left: 15%;
+  margin-top: 0.5%;
+  margin-bottom: 1%;
+  font-weight: 400;
+  font-size: 18px;
+  color: #FE0000;
+}
+.eventBtn{
+  width: 20%;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 5%;
+}
+.eventImage{
+  background-image: url(images/event-image.jpg);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 958px) {
+  nav .burger{
+    display: block;
+  }
+  nav .nav-links{
+    position: absolute;
+    display: block;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    background: white;
+    padding: 20px;
+    width: 50%;
+    left: 0;
+    transform: translateX(-500px);
+    transition: 0.5s ease-in-out;
+  }
+  nav .nav-links li{
+    padding: 20px;
+    border-bottom: 1px solid #FE0000 ;
+  }
+  nav .nav-links li:first-of-type{
+    margin-top: 10%;
+  }
+  .headerImage{
+    height: 200px;
+  }
+  .mainHeading{
+    font-size: 24px;
+    margin-top: 7%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+  }
+  .left{
+    padding-left: 5%;
+    padding-bottom: 25%;
+  }
+  .right{
+    padding-right: 5%;
+    padding-bottom: 25%;
+  }
+  .card, .eventCard{
+    padding: 4%;
+    margin-bottom: 5%;
+    width: 100%;
+    box-shadow: 0px 3px 9px 0px #C2C2C2;
+  }
+  .title{
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .members, .events{
+    font-size: 12px;
+    color: #4B4B4B;
+  }
+  .more{
+    font-size: 12px;
+    color: #FE0000;
+    margin-top: 12%;
+    cursor: pointer;
+  }
+  .societyBtn{
+    width: 20%;
+    margin-left: 5%;
+  }
+  .secondHeading{
+    margin-left: 5%;
+    margin-top: 5%;
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .subHeading{
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 16px;
+    color: #4B4B4B;
+  }
+  .inTextHeading{
+    margin-top: 10%;
+    font-size: 16px;
+    color: #4B4B4B;
+  }
+  .redHeading{
+    margin-left: 5%;
+    font-size: 16px;
+    color: #FE0000;
+  }
+  .eventBtn{
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10%;
+  }
+  
+}
