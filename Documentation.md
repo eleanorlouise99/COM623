@@ -1,6 +1,8 @@
 <h1>COM623 Contemporary web application</h1>
 
 <h2>Implementation and report</h2>
+<h3>Eleanor Morgan Q14572575</h3>
+<p>Link to hosted site: <a href="https://solent-sport.web.app/">https://solent-sport.web.app/</a></p>
 
 <h3>Introduction</h3>
 <p>This assesment focuses on building the idea and design created in assesment 1. The idea was to create a web application for 'Sport solent' and it's clubs and societies. 
@@ -47,6 +49,6 @@ menu function for mobile and smaller screens, this was used with a header image 
 understand and find the american football society card and make it to the next step, they liked the homepage, they felt it was very clearly laid out and said they would understand what to do when arriving to that page, without being prompted. When approaching the society page they were confused about the Joinn button and not beign able to clikc it, however were able to move onto the next step (clicking on the event card) without any struggle. Some other feedback they had was to have more information on the individual society page about that club, for example what they do, what kinds of events they host or how often they train. They also would have liked to have been ablke to see who else is going to an event, which was in my design however I struggled to build this part.</p>
 
 <h3>Conclusion</h3>
-<p>Overall, I am relatively pleased with my SPA, I found it a challenge to build however I was able to create the user journey I had set out to do. However, it would have bene nice to have added in more functionality with areas, such as the join or sign up (on event page) buttons. I feel that my application did solve the problem I had set out to solve, as it did give students a space in which they could view events going on and see which societies there are, although it would have been good to have been able to click on each societies page and view more details.</p>
+<p>Overall, I am relatively pleased with my SPA, I found it a challenge to build however I was able to create the user journey I had set out to do. However, it would have bene nice to have added in more functionality with areas, such as the join or sign up (on event page) buttons. I feel that my application did solve the problem I had set out to solve, as it did give students a space in which they could view events going on and see which societies there are, although it would have been good to have been able to click on each societies page and view more details. I was able to keep the build similar to my initial design, it wasnt exactly the same however the steps the user would take remained the constant throughout.</p>
 
 
