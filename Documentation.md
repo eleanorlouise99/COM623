@@ -32,6 +32,9 @@ I decided on using Agile as after performing some research on it, I figured it w
 to the waterfall method in which each phase is a result of the process of previous steps. It also focuses on the user, it aims to deliver a value rather than just a tech 
 component, meaning it allows you to test software after each sprint, so you can gain feedback earlier in the project and adjust changesaccordingly.</p>
 
+<h3>User story</h3>
+The user story that my journey is based off is about a student called Eddie Jones. Eddie 
+
 <h3>Building the app</h3>
 <p>Before setting off on the build, to follow through with the agile method, I began by writing down my goals for this project, which was to develop the user journey I had 
 created in assesment one, and a login system for app as well (which I had not designed in assesment 1). I then came up with a project roadmap, which was based off of the design 
