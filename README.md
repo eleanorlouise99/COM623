@@ -1,6 +1,7 @@
 <h1>COM623 Contemporary web applications</h1>
 <h3>Implementation and report</h3>
 <h3>Eleanor Morgan</h3>
+
 <h2>About</h2>
 <p>This repositary includes the files needed to view the Sport Solent SPA that I have created as part of my second assignment for COM623. This is an application built with react that is aimed at solent students to help them get more details regarding the sports clubs at the unis and the events that they are hosting.<br>
 
@@ -18,4 +19,9 @@ The app consists of 3 main pages as well as a login/sign up screen. The pages ar
 
 <p>And your ready to play around with or view the app!</p>
 
-<p>You can also view the app here: https://solent-sport.web.app/ </p>
+<p>You can also view the app here: https://solent-sport.web.app/ </p> 
+<P>You can sign up yourself, or login using the following details that are already set up:</P>
+<ul>
+  <li>Email: eddiej@solentuni2021.com</li>
+  <li>Password: 1234abc </li>
+</ul>
